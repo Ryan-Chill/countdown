@@ -4,6 +4,6 @@
 
 `Blue Yellow.ttf`: the font for countdown numbers, you may modify it's file path before running `main.py` if you change its location.
 
-`edited_cd.png`: the edited picture, now having the current countdown on it, you may modify it's file path before running `main.py` if you change its location.
+`edited_cd.png`: the edited picture, now having the current countdown on it, you may modify its file path before running `main.py` if you change its location. The file will appear once you run the code.
 
 *Necessary modules: datetime, PIL(only Image, ImageFont, ImageDraw are needed)*
